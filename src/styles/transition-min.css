@@ -1,0 +1,2 @@
+/* stylelint-disable */
+.animated{animation-duration:1s;animation-fill-mode:both}.animated.infinite{animation-iteration-count:infinite}.animated.hinge{animation-duration:2s}.animated.bounceIn,.animated.bounceOut,.animated.flipOutX,.animated.flipOutY{animation-duration:.75s}#vueg-background{position:absolute;z-index:-1;top:0;width:100%;min-height:100vh;overflow:hidden;background:#f8f8f8}.page{background-color:#fff;position:absolute;top:0;width:100%;min-height:100vh}

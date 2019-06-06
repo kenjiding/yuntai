@@ -1,0 +1,38 @@
+@import './font/iconfont.css';
+@import '@/styles/them.scss';
+
+img {
+  content: normal !important;
+}
+
+.van-field__control:disabled {
+  color: $font-color-disable !important;
+}
+
+.van-modal {
+  background-color: rgba(0, 0, 0, .1);
+}
+
+// 解决switch的loading位置问题
+.van-switch__loading {
+  width: 20px;
+  height: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.van-picker__frame {
+  position: absolute !important;
+}
+
+.van-circle {
+  path:last-child {
+    transform: translateX(1px);
+  }
+}
+
+// 解决van-cell双层
+// .van-cell:not(:last-child)::after {
+//   content: none;
+// }

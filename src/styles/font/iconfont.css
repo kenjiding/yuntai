@@ -1,0 +1,286 @@
+/* stylelint-disable */
+@font-face {
+  font-family: 'custom-iconfont';
+  src: url('iconfont.ttf?t=1558946624632') format('truetype');
+}
+
+.van-icon {
+  font-family: 'vant-icon', 'custom-iconfont' !important;
+}
+
+.van-icon-gantanhao1:before {
+  content: "\e631";
+}
+
+.van-icon-mendian:before {
+  content: "\e60d";
+}
+
+.van-icon-xiangyou:before {
+  content: "\e63f";
+}
+
+.van-icon-shangpin:before {
+  content: "\e617";
+}
+
+.van-icon-qr:before {
+  content: "\e607";
+}
+
+.van-icon-add-circle:before {
+  content: "\e609";
+}
+
+.van-icon-ma:before {
+  content: "\e60a";
+}
+
+.van-icon-search:before {
+  content: "\e603";
+}
+
+.van-icon-huangguan:before {
+  content: "\e686";
+}
+
+.van-icon-danjia:before {
+  content: "\e614";
+}
+
+.van-icon-tuisong:before {
+  content: "\e612";
+}
+
+.van-icon-dot:before {
+  content: "\e8c4";
+}
+
+.van-icon-save:before {
+  content: "\e8e5";
+}
+
+.van-icon-close:before {
+  content: "\e8e7";
+}
+
+.van-icon-fenzu:before {
+  content: "\e604";
+}
+
+.van-icon-bianhao:before {
+  content: "\e634";
+}
+
+.van-icon-tixian:before {
+  content: "\e608";
+}
+
+.van-icon-box:before {
+  content: "\e638";
+}
+
+.van-icon-wifi1:before {
+  content: "\e6a8";
+}
+
+.van-icon-maichong:before {
+  content: "\e780";
+}
+
+.van-icon-zhanghao:before {
+  content: "\e6b8";
+}
+
+.van-icon-dayin:before {
+  content: "\e666";
+}
+
+.van-icon-gift:before {
+  content: "\e681";
+}
+
+.van-icon-fankui:before {
+  content: "\e6b3";
+}
+
+.van-icon-jifen:before {
+  content: "\e606";
+}
+
+.van-icon-cart:before {
+  content: "\e605";
+}
+
+.van-icon-bear:before {
+  content: "\e60b";
+}
+
+.van-icon-remove-circle:before {
+  content: "\e6dd";
+}
+
+.van-icon-erweima:before {
+  content: "\e600";
+}
+
+.van-icon-dingdan:before {
+  content: "\e602";
+}
+
+.van-icon-xiala:before {
+  content: "\e619";
+}
+
+.van-icon-fenliu:before {
+  content: "\e65d";
+}
+
+.van-icon-dian:before {
+  content: "\e601";
+}
+
+.van-icon-leixing:before {
+  content: "\e627";
+}
+
+.van-icon-xingbienanxianxing:before {
+  content: "\e615";
+}
+
+.van-icon-xingbienvxianxing:before {
+  content: "\e618";
+}
+
+.van-icon-icon-svg-yuedengyu:before {
+  content: "\e67e";
+}
+
+.van-icon-dizhi:before {
+  content: "\e60c";
+}
+
+.van-icon-shezhi:before {
+  content: "\e611";
+}
+
+.van-icon-tianjia:before {
+  content: "\e706";
+}
+
+.van-icon-gailv:before {
+  content: "\e662";
+}
+
+.van-icon-kuaidu:before {
+  content: "\e6ba";
+}
+
+.van-icon-weizhi:before {
+  content: "\e61f";
+}
+
+.van-icon-qiehuan:before {
+  content: "\e62b";
+}
+
+.van-icon-arrow-up:before {
+  content: "\e67f";
+}
+
+.van-icon-arrow-down:before {
+  content: "\e66a";
+}
+
+.van-icon-yunyoulogomian:before {
+  content: "\e62c";
+}
+
+.van-icon-yuntaixinlingshoulogo:before {
+  content: "\e62d";
+}
+
+.van-icon-yiguoqi:before {
+  content: "\e656";
+}
+
+.van-icon-yilingwan:before {
+  content: "\e657";
+}
+
+.van-icon-wechat:before {
+  content: "\e632";
+}
+
+.van-icon-item:before {
+  content: "\e60f";
+}
+
+.van-icon-cash:before {
+  content: "\e610";
+}
+
+.van-icon-yiguanbi:before {
+  content: "\e630";
+}
+
+.van-icon-yijieshu:before {
+  content: "\e633";
+}
+
+.van-icon-paihangbang-yijieshu:before {
+  content: "\e635";
+}
+
+.van-icon-paihangbang-weikaishi:before {
+  content: "\e636";
+}
+
+.van-icon-shuoming:before {
+  content: "\e637";
+}
+
+.van-icon-bili:before {
+  content: "\e639";
+}
+
+.van-icon-rate-setting:before {
+  content: "\e647";
+}
+
+.van-icon-device-type:before {
+  content: "\e648";
+}
+
+.van-icon-game-setting:before {
+  content: "\e649";
+}
+
+.van-icon-communication:before {
+  content: "\e64a";
+}
+
+.van-icon-youxibihongbao:before {
+  content: "\e652";
+}
+
+.van-icon-pinpai:before {
+  content: "\e653";
+}
+
+.van-icon-shaixuanxuanzhong:before {
+  content: "\e655";
+}
+
+.van-icon-otherpayment:before {
+  content: "\e65e";
+}
+
+.van-icon-alipay:before {
+  content: "\e65f";
+}
+
+.van-icon-cashpayment:before {
+  content: "\e660";
+}
+
